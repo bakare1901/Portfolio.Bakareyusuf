@@ -26,8 +26,8 @@ This repository showcases my skills, sample projects, and commitment to accuracy
 ---
 
 ## 🔹 Sample Work
-- [Data Entry Sample](DataEntrySample.xlsx)  
-- [Data Cleaning Example](DataCleaning.xlsx)  
+- [Data Entry Sample](Worked Pharmacy_Data_Challenge_Dataset.xlsx)  
+- [Data Cleaning Example](merged in power query.xlsx)  
 - [Visualization Demo](VisualizationSample.png)  
 
 
